@@ -24,6 +24,9 @@ public class Main {
             if (namnEllerDagInput.equals("namn")) {
                 checkDayFromName(namnEllerDagInput);
             }
+            if (namnEllerDagInput.equals("exit")) {
+                System.exit(0);
+            }
         }
     }
 
