@@ -25,8 +25,6 @@ public class Main {
                 checkDayFromName(namnEllerDagInput);
             }
         }
-
-
     }
 
     private static void checkDayFromName(String namnEllerDagInput) {
