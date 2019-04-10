@@ -61,7 +61,6 @@ public class Main {
         for(String rad:namnsdagar){
 
             String[] a= rad.split("\t");
-            //System.out.println(a[0]+" - "+a[1]);
             myNamnsdagarMap.put(a[0] , a[1]);
         }
     }

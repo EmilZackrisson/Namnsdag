@@ -94,7 +94,7 @@
 3 april	Ferdinand, Nanna
 4 april	Marianne, Marlene
 5 april	Irene, Irja
-6 april	Vilhelm, Helmi
+6 april	Vilhelm, Helmi, William
 7 april	Irma, Irmelin
 8 april	Nadja, Tanja
 9 april	Otto, Ottilia
@@ -252,7 +252,7 @@
 8 september	Alma, Hulda
 9 september	Anita, Annette
 10 september	Tord, Turid
-11 september	Dagny, Helny
+11 september	Dagny, Helny, Kung König
 12 september	Åsa, Åslög
 13 september	Sture
 14 september	Ida
