@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Main {
     static final private HashMap<String, String> myNamnsdagarMap = new HashMap<>();
-    public static final String NAMNSDAGAR_TXT = "namnsdagar.txt";
+    private static final String NAMNSDAGAR_TXT = "namnsdagar.txt";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -49,7 +49,6 @@ public class Main {
 
     private static void prepareNamnsdagMap() {
         List<String> namnsdagar = null;
-
 
         try {
             namnsdagar = Files.readAllLines(Paths.get(NAMNSDAGAR_TXT));
